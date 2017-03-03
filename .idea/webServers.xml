@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="sftp://tim@edmond.hopto.org:22/home/tim/miniconda2/envs/ve_prj4/bin/python" name="sftp://tim@edmond.hopto.org:22/home/tim/miniconda2/envs/ve_prj4/bin/python">
+        <fileTransfer host="edmond.hopto.org" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

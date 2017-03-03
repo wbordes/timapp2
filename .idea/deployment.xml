@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="sftp://tim@edmond.hopto.org:22/home/tim/miniconda2/envs/ve_prj4/bin/python" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="sftp://tim@edmond.hopto.org:22/home/tim/miniconda2/envs/ve_prj4/bin/python">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/tim/MEGA/MyProjects/PycharmProjects/timapp2" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
